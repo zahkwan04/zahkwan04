@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## 📊 My GitHub Stats
+
+<!-- Overall Stats Card -->
+<img src="https://vercel.app" alt="zahkwan04's GitHub stats" />
+
+<!-- Streak Stats Card -->
+<img src="https://herokuapp.com" alt="zahkwan04's GitHub streak" />
+
 <!--
 **zahkwan04/zahkwan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
