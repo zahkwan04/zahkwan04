@@ -1,24 +1,30 @@
-## Hi there 👋
+# Hi, I'm Zahier 👋
 
-## 📊 My GitHub Stats
+**Software Validation Engineer | Embedded Systems | C/C++ | Python | C#**
 
-<!-- Overall Stats Card -->
-<img src="https://vercel.app" alt="zahkwan04's GitHub stats" />
+Software Validation / Software Engineer with experience in:
+- Embedded & networking systems
+- Semiconductor field
+- Software networking validation
+- Avionics software validation
+- Test automation
+- DO-178C / DO-254 / DO-330
+- Software tool qualification
 
-<!-- Streak Stats Card -->
-<img src="https://herokuapp.com" alt="zahkwan04's GitHub streak" />
+### 🛠️ Tech
+`C` `C++` `Python` `C#` `Java` `SQL`  
+`Linux` `Yocto` `Windows` `Zephyr RTOS`  
+`Git` `GitHub` `Wireshark` `Qt` `.NET`
 
-<!--
-**zahkwan04/zahkwan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Current Focus
+- Software Verification & Validation
+- Safety-Critical Software
+- Test Automation
+- Embedded Systems
+- Avionics
+- Software Tool Qualification
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My favourite quote is “Jack of all trades, master of none, though oftentimes better than master of one.”
+
+![](https://raw.githubusercontent.com/zahkwan04/zahkwan04/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
