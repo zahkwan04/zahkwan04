@@ -25,6 +25,4 @@ Software Validation / Software Engineer with experience in:
 - Software Tool Qualification
 
 
-My favourite quote is “Jack of all trades, master of none, though oftentimes better than master of one.”
-
 ![](https://raw.githubusercontent.com/zahkwan04/zahkwan04/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
